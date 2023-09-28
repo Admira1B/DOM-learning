@@ -1,0 +1,13 @@
+body {
+  font-size: 14px;
+  color: rgb(206, 232, 249);
+  margin-inline: 40px;
+}
+
+.centerHeader {
+  text-align: center;
+}
+
+.purpleText {
+  color: rgb(172, 136, 205);
+}
